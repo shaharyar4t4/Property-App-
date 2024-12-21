@@ -1,4 +1,4 @@
-# houserentapp
+# Property Rental App
 
 A new Flutter project.
 
